@@ -11,12 +11,8 @@ My goal is to become professional software developer
 Portfolio website - A simple personal website showcasing my skills
 
 ## Contact me
-Email; joynyambura@gmail.com 
+Email; joynyambura@gmail.com. 
+
 https://github.com/Emojoy-del.
-
-
-## How to Reach Me
-- Email: [your email]
-- LinkedIn: [your LinkedIn profile link]
 
 
